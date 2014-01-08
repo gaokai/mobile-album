@@ -4,7 +4,7 @@
 * 教程：[http://gallery.kissyui.com/mobile-album/1.0/guide/index.html](http://gallery.kissyui.com/mobile-album/1.0/guide/index.html)
 * demo：[http://gallery.kissyui.com/mobile-album/1.0/demo/index.html](http://gallery.kissyui.com/mobile-album/1.0/demo/index.html)
 
-所有的动力来源于一句话： 只要能被javascript实现的功能，它最终都会被实现。
+有一句话是这么说的： 只要能被javascript实现的功能，它最终都会被实现。
 
 ## changelog
 
